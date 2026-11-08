@@ -47,7 +47,7 @@ To run the project locally, follow these steps.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CSCI426_WebAdv.git
+git clone https://github.com/CharbelAlKhawand/CSCI426_WebAdv.git
 ```
 
 ### 2. Open the project folder
