@@ -33,7 +33,7 @@ function Home() {
 
       <section className="about-teaser">
         <h2>Who We Are</h2>
-        <p>A short sentence or two about your dealership and how long you've been serving customers.</p>
+        <p>AutoHub is a car dealership in Saida, Lebanon, offering performance, luxury and modern classic cars. We focus on honest prices and helping every customer find the right car.</p>
         <Link to="/about" className="teaser-link">Learn more about us</Link>
       </section>
 

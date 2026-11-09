@@ -15,7 +15,7 @@ function Footer() {
         
       </ul>
       <p className="footer-copy">
-        &copy; {new Date().getFullYear()} csci426_webadv. All rights reserved.
+        &copy; {new Date().getFullYear()} AutoHub. All rights reserved.
       </p>
     </footer>
   );
